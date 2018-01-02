@@ -2,6 +2,10 @@
 This is a LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission.
 
 ---
+## Beta v0.1
+
+The initial beta release (v.0.1) can be found at the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1134686.svg)](https://doi.org/10.5281/zenodo.1134686)
+
 
 ## How to use:
 
