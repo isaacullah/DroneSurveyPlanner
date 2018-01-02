@@ -11,7 +11,7 @@ The initial beta release (v.0.1) can be found at the following DOI: [![DOI](http
 
 1. Enter data about your drone, camera, and mission details into the top section.
 2. The spreadhsheet calculates the resolution and ground-footprint of each photo as well as transect details and flight time and speed to complete the survey mission.
-3. Two additional sheets are provided with details about the DJI Mavic Pro drone and MapIR drone cameras. If you have data about a different drone or camera, please get in touch and I will add a sheet with the new info.
+3. Two additional sheets are provided with details about the DJI Mavic Pro drone and MapIR drone cameras. If you have data about a different drone or camera, please get in touch and I will try to add a sheet with the new info. Or better yet, fork the repository, add your changes, and issue a pull request! :)
 
 ## Notes:
 
